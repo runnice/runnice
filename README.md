@@ -1,4 +1,4 @@
-### Hi! 👋
+### Olá! 👋
 
 Meu nome é Vinícius Oliveira. Compartilharei meus estudos e desafios.
 
@@ -8,8 +8,8 @@ Meu nome é Vinícius Oliveira. Compartilharei meus estudos e desafios.
 
 - 🌱 Atualmente estudando Python, Java e SQL.
 
-- 📫 runnice@gmail.com [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-oliveira-19887a1ba/)
-
+- 📫 runnice@gmail.com 
+- 📫[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinicius-oliveira-19887a1ba/)
   ```
    
   ```
