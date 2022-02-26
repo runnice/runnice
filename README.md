@@ -1,4 +1,5 @@
-### Olá! 👋 Eu sou Vinícius Oliveira. Compartilharei meus estudos e desafios.
+### Olá! 👋 Eu sou Vinícius Oliveira. 
+### Compartilharei meus estudos e desafios.
 
  ##
   <div align="left">
